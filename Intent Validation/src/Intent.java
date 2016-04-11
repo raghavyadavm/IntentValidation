@@ -81,7 +81,7 @@ public class Intent {
     			  		value = st.nextToken();
     			  		al1.add(value);
     			  		
-    			  		//System.out.println(val1ue);
+    			  		System.out.println(value);
 				
     			  	}
                   
